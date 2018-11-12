@@ -34,8 +34,13 @@ body {
 .hero-message h1{
   font-family: 'Montserrat', sans-serif;
   color: white;
+  font-size: 4rem;
 }
 
 .bbx {
   box-sizing: border-box;
+}
+
+.v-mid {
+  padding-bottom: 80px;
 }
