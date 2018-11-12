@@ -1,0 +1,41 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.hero-wrap {
+  height: 100vh;
+  background: #2dc5f3;
+  width: 100%;
+}
+
+.hero-wrap header {
+  height: 80px;
+  width: 100%;
+  background: white;
+}
+
+.hero-wrap header img {
+  height: 50px;
+  margin-top: 15px;
+}
+
+.hero-wrap header ul {
+  height: 40px
+  margin-top: 20px;
+}
+
+.hero-wrap header li {
+  list-style: none;
+  line-height: 40px;
+  font-weight: 500;
+  color: #222;
+}
+
+.hero-message h1{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.bbx {
+  box-sizing: border-box;
+}
